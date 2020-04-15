@@ -5,5 +5,7 @@
 Legajo: **10897**
 * Técnico en Informatica.
 * 2do año de Ingenieria en Sistemas de Información.
+* Proteccionista animal.
+* Instructor de tecnologia para Adultos Mayores.
 
 
